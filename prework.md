@@ -9,10 +9,10 @@ Stepping forward to new bounds and hoping to learn more about :computer:
 Welcome to a simple android app where you can change the text on the screen to your liking or have the app autogenerate a phrase. Additional features include changing the background color, text color, and reverting everything back by a quick tap on the screen!  
 
 ### App Walkthrough
-https://i.imgur.com/kSsDV42.gifv
+https://i.imgur.com/HOcmHKL.gifv
 
 
-<img src="https://i.imgur.com/kSsDV42.gif" length="400" width="400"><br>
+<img src="https://i.imgur.com/HOcmHKL.gif" length="400" width="400"><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
