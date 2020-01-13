@@ -3,7 +3,7 @@ First CodePath Task Application and GitHub repo
 
 Stepping forward to new bounds and hoping to learn more about :computer:
 
-### App: RaymondHelloWorld
+### App: Android Studio - RaymondHelloWorld
 
 ### App Description
 Welcome to a simple android app where you can change the text on the screen to your liking or have the app autogenerate a phrase. Additional features include changing the background color, text color, and reverting everything back by a quick tap on the screen!  
