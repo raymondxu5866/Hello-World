@@ -1,9 +1,18 @@
 # Hello-World
-First CodePath Task and GitHub repo
+First CodePath Task Application and GitHub repo
 
 Stepping forward to new bounds and hoping to learn more about :computer:
 
-Week 0:
+### App: RaymondHelloWorld
+
+### App Description
+Welcome to a simple android app where you can change the text on the screen to your liking or have the app autogenerate a phrase. Additional features include changing the background color, text color, and reverting everything back by a quick tap on the screen!  
+
+### App Walkthrough
+https://i.imgur.com/kSsDV42.gifv
+
+
+<img src="https://i.imgur.com/kSsDV42.gif" length="400" width="400"><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -19,4 +28,3 @@ Week 0:
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [x] c. If the text field is empty, update label with default text string.  
 
-https://i.imgur.com/kSsDV42.gifv
